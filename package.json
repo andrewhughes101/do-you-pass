@@ -14,6 +14,6 @@
     "url": "https://github.com/andrewhughes101/do-you-pass.git"
   },
   "dependencies": {
-    "i-should-pass": "^1.0.0"
+    "i-should-pass": "andrewhughes101/i-should-pass#ec218ed4d7bd085c4aa3d94c2f86a43470754816"
   }
 }
